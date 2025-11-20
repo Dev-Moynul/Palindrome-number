@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1763634710 source:d:\code\palindromenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
