@@ -13,8 +13,8 @@ int main()
         n=n/10;
     }
     if(rev==original)
-        printf("%d is Pelindrome",original);
+        printf("%d is Pelindrome\n",original);
     else
-        printf("%d is Not palindrome",original);
+        printf("%d is Not palindrome\n",original);
     return 0;
 }
